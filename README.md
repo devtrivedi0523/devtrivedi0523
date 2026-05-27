@@ -75,7 +75,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🏠 Golden Nest](https://golden-nest.vercel.app) | Full-stack real estate platform with JWT auth, role-based access, and Docker deployment | Spring Boot, React, MySQL |
+| [🏠 Golden Nest](https://www.thegoldennest.co.uk) | Full-stack real estate platform with JWT auth, role-based access, and Docker deployment | Spring Boot, React, MySQL |
 | [🎨 Creative Baxa](https://www.creativebaxa.com) | Production agency website with modular React/TS architecture | React, TypeScript, Node.js |
 | 🚗 Vehicle Detection System | Real-time traffic analysis with YOLOv8, object tracking, and Flask REST API | Python, OpenCV, YOLOv8 |
 | [🌐 3D Portfolio](https://dev-portfolio-eight-lemon.vercel.app) | Interactive 3D portfolio built with Three.js and React | React, Three.js, Tailwind |
